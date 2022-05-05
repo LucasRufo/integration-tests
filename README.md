@@ -13,6 +13,9 @@ dotnet test
 ## References
 
 [https://dotnetthoughts.net/dotnet-minimal-api-integration-testing/](https://dotnetthoughts.net/dotnet-minimal-api-integration-testing/)
+
 [https://docs.microsoft.com/pt-br/aspnet/core/test/integration-tests?view=aspnetcore-6.0](https://docs.microsoft.com/pt-br/aspnet/core/test/integration-tests?view=aspnetcore-6.0)
+
 [https://github.com/martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing)
+
 [https://www.hanselman.com/blog/minimal-apis-in-net-6-but-where-are-the-unit-tests](https://www.hanselman.com/blog/minimal-apis-in-net-6-but-where-are-the-unit-tests)
